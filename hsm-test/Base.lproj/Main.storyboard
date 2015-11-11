@@ -8,7 +8,7 @@
         <!--Helpdesk-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="hsm_test" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="hsm_helpdesk" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -76,7 +76,7 @@
         <!--Config View Controller-->
         <scene sceneID="86z-f0-5vd">
             <objects>
-                <viewController id="Gjl-lZ-mig" customClass="ConfigViewController" customModule="hsm_test" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Gjl-lZ-mig" customClass="ConfigViewController" customModule="hsm_helpdesk" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Ntr-DY-Xcu"/>
                         <viewControllerLayoutGuide type="bottom" id="aGx-5h-o2Z"/>
